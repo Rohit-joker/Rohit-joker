@@ -1,48 +1,192 @@
-## Hi there 👋
-<h1 align="center">👋, I'm Rohit Dhotre</h1>
-<h3 align="center">A passionate about Cyber and Tech Era from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-joker&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-joker" /> </p>
+<!-- ===================================================== -->
+<!-- ROHIT DHOTRE | CYBERSECURITY ENGINEER PROFILE README   -->
+<!-- Replace repository placeholders with your actual URLs -->
+<!-- ===================================================== -->
 
-- 🔭 I had worked with **Suricata IDS**
+<div align="center">
 
-- 🌱 I’m currently learning **Deep knowledge of Cyber Security**
+# 👋 Hi, I'm Rohit Dhotre
 
-- 👯 I’m collaborated with [TATA Strive](https://tatastrive.com/)
+### Cybersecurity Enthusiast | Network Security | Security Monitoring
 
-- 🤝 I’m looking for help with **Wazuh SIEM tool**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rohitdhotretechnologyst](www.linkedin.com/in/rohitdhotretechnologyst)
-
-- 💬 Ask me about **Networking ,Information Security and so on**
-
-- 📫 How to reach me **rohitdhotre.sae.comp@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/rohitdhotretechnologyst](www.linkedin.com/in/rohitdhotretechnologyst)
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rohitdhotretechnologyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohitdhotretechnologyst" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity+%26+Network+Defense;Building+with+Suricata+IDS;Learning+SIEM+%26+Security+Monitoring;Turning+Curiosity+into+Practical+Projects" alt="Typing introduction" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/rohit-joker">
+    <img src="https://img.shields.io/badge/GitHub-rohit--joker-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohitdhotretechnologyst/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rohitdhotre.sae.comp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-joker&show_icons=true&locale=en&layout=compact" alt="rohit-joker" /></p>
+<img src="https://komarev.com/ghpvc/?username=rohit-joker&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views"/>
 
-<!--
-**Rohit-joker/Rohit-joker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm a Computer Science engineering graduate interested in cybersecurity, network defense, and security monitoring. I enjoy exploring security tools and building practical projects to strengthen my technical knowledge.
+
+- 🔐 **Focus:** Cybersecurity, Network Security & Information Security
+- 🛡️ **Hands-on Project:** Real-Time Network Intrusion Detection using Suricata
+- 📊 **Monitoring Stack:** Grafana, Loki & Grafana Alloy
+- 🌐 **Networking:** Network fundamentals and Nmap lab practice
+- 🎓 **Learning:** Cybersecurity fundamentals and SIEM technologies
+- 🚀 **Currently Exploring:** Wazuh SIEM and security event monitoring
+- 🤝 **Learning Journey:** Tata STRIVE Cybersecurity Training
+- 📫 **Contact:** rohitdhotre.sae.comp@gmail.com
+
+> My goal is to grow as a cybersecurity professional by combining practical labs, continuous learning, and security-focused projects.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohit-joker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-joker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rohit-joker&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-joker&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ 1. Real-Time Network Intrusion Detection & Security Monitoring
+
+**Technologies:** Suricata · Grafana · Loki · Grafana Alloy · Python · Docker
+
+- Built an end-to-end network intrusion detection and monitoring lab.
+- Used Suricata to detect network activity and generate security events.
+- Integrated event collection and log monitoring with Grafana Alloy and Loki.
+- Used Grafana to visualize security events and monitor network activity.
+- Developed an automated email alerting workflow.
+
+**Project repository:** Replace the link below with your actual public repository.
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/rohit-joker)
+
+### 🚗 2. Vehicle Plate Detection & Tracking
+
+**Technologies:** Python · YOLOv5 · OpenCV · Tesseract OCR · PyTorch · MongoDB · React
+
+- Worked on a deep-learning framework for vehicle plate detection and tracking in urban environments.
+- Used computer vision and object detection techniques for video processing.
+- Integrated OCR to extract text from detected vehicle plates.
+- Contributed to a research and implementation project.
+
+**Project repository:** Replace the link below with your actual public repository.
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/rohit-joker)
+
+### 🔎 3. Wazuh SIEM Learning Lab
+
+**Technologies:** Wazuh · SIEM · Log Analysis · Security Monitoring
+
+- Exploring SIEM concepts and centralized security monitoring.
+- Learning how security events can be collected, analyzed, and investigated.
+- Planning practical exercises to strengthen security monitoring skills.
+
+**Status:** Learning and exploration.
+
+---
+
+## 🧰 Technologies & Tools
+
+### Cybersecurity & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge" alt="Networking"/>
+</p>
+
+### Monitoring & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
+  <img src="https://img.shields.io/badge/Grafana_Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Alloy"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+### Programming & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### Databases & Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
+
+---
+
+## 🎓 Education & Learning
+
+- **Computer Science Engineering** — Sinhgad Academy of Engineering, Pune
+- **Diploma in Information Technology** — MIT Polytechnic College
+- **Cybersecurity Training** — Tata STRIVE
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with cybersecurity professionals, engineers, recruiters, and fellow learners.
+
+<div align="center">
+
+<a href="https://github.com/rohit-joker">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohitdhotretechnologyst/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="mailto:rohitdhotre.sae.comp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
+
+<br/><br/>
+
+### 💡 "Learn continuously. Build practically. Defend intelligently."
+
+⭐ If you find my projects interesting, feel free to explore my repositories and connect!
+
+</div>

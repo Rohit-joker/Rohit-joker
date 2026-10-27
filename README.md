@@ -1,9 +1,4 @@
 
-<!-- ===================================================== -->
-<!-- ROHIT DHOTRE | CYBERSECURITY ENGINEER PROFILE README   -->
-<!-- Replace repository placeholders with your actual URLs -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 # 👋 Hi, I'm Rohit Dhotre
@@ -11,7 +6,7 @@
 ### Cybersecurity Enthusiast | Network Security | Security Monitoring
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity+%26+Network+Defense;Building+with+Suricata+IDS;Learning+SIEM+%26+Security+Monitoring;Turning+Curiosity+into+Practical+Projects" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity+%26+Network+Defense;Building+with+Suricata+IDS;Learning+SIEM+%26+Security+Monitoring;Turning+Curiosity+into+Practical+Projects" alt="Typing introduction"/>
 </p>
 
 <p>
@@ -40,36 +35,26 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
 - 🛡️ **Hands-on Project:** Real-Time Network Intrusion Detection using Suricata
 - 📊 **Monitoring Stack:** Grafana, Loki & Grafana Alloy
 - 🌐 **Networking:** Network fundamentals and Nmap lab practice
-- 🎓 **Learning:** Cybersecurity fundamentals and SIEM technologies
-- 🚀 **Currently Exploring:** Wazuh SIEM and security event monitoring
-- 🤝 **Learning Journey:** Tata STRIVE Cybersecurity Training
-- 📫 **Contact:** rohitdhotre.sae.comp@gmail.com
+- 🎓 **Currently Learning:** Cybersecurity fundamentals and SIEM technologies
+- 🚀 **Exploring:** Wazuh SIEM and security event monitoring
+- 🤝 **Training:** Tata STRIVE Cybersecurity Training
+- 📫 **Email:** rohitdhotre.sae.comp@gmail.com
+- ⚡ **Fun Fact:** I think I'm funny!
 
 > My goal is to grow as a cybersecurity professional by combining practical labs, continuous learning, and security-focused projects.
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 GitHub Overview
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohit-joker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-joker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rohit-joker&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-joker&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/rohit-joker?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+  <a href="https://github.com/rohit-joker?tab=stars">
+    <img src="https://img.shields.io/badge/View-My_Stars-yellow?style=for-the-badge&logo=github" alt="View starred repositories"/>
+  </a>
+</p>
 
 ---
 
@@ -85,9 +70,7 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
 - Used Grafana to visualize security events and monitor network activity.
 - Developed an automated email alerting workflow.
 
-**Project repository:** Replace the link below with your actual public repository.
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/rohit-joker)
+**Project Repository:** [View on GitHub](https://github.com/rohit-joker)
 
 ### 🚗 2. Vehicle Plate Detection & Tracking
 
@@ -96,11 +79,9 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
 - Worked on a deep-learning framework for vehicle plate detection and tracking in urban environments.
 - Used computer vision and object detection techniques for video processing.
 - Integrated OCR to extract text from detected vehicle plates.
-- Contributed to a research and implementation project.
+- Contributed to the research and implementation of the project.
 
-**Project repository:** Replace the link below with your actual public repository.
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/rohit-joker)
+**Project Repository:** [View on GitHub](https://github.com/rohit-joker)
 
 ### 🔎 3. Wazuh SIEM Learning Lab
 
@@ -116,16 +97,16 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
 
 ## 🧰 Technologies & Tools
 
-### Cybersecurity & Networking
+### 🔐 Cybersecurity & Networking
 
 <p>
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh"/>
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Network_Security-0078D4?style=for-the-badge" alt="Network Security"/>
 </p>
 
-### Monitoring & Infrastructure
+### 📊 Monitoring & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
@@ -135,7 +116,7 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### Programming & Development
+### 💻 Programming & Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -146,26 +127,35 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### Databases & Computer Vision
+### 🗄️ Databases & Computer Vision
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-3776AB?style=for-the-badge" alt="Tesseract OCR"/>
 </p>
 
 ---
 
 ## 🎓 Education & Learning
 
-- **Computer Science Engineering** — Sinhgad Academy of Engineering, Pune
-- **Diploma in Information Technology** — MIT Polytechnic College
-- **Cybersecurity Training** — Tata STRIVE
+- 🎓 **Computer Science Engineering** — Sinhgad Academy of Engineering, Pune
+- 💻 **Diploma in Information Technology** — MIT Polytechnic College
+- 🛡️ **Cybersecurity Training** — Tata STRIVE
 
 ---
 
-## 🤝 Let's Connect
+## 📜 Certifications & Achievements
+
+- Cybersecurity learning and practical lab experience through Tata STRIVE.
+- Published research and implementation work on vehicle plate detection and tracking.
+- Hands-on experience building a Suricata-based network intrusion detection and security monitoring lab.
+
+---
+
+## 🤝 Connect With Me
 
 I'm interested in connecting with cybersecurity professionals, engineers, recruiters, and fellow learners.
 
@@ -187,6 +177,6 @@ I'm interested in connecting with cybersecurity professionals, engineers, recrui
 
 ### 💡 "Learn continuously. Build practically. Defend intelligently."
 
-⭐ If you find my projects interesting, feel free to explore my repositories and connect!
+⭐ If you find my projects interesting, explore my repositories and connect!
 
 </div>

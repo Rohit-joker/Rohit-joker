@@ -75,7 +75,7 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
 - Used Grafana to visualize security events and monitor network activity.
 - Developed an automated email alerting workflow.
 
-**Project Repository:** [View on GitHub]([https://github.com/rohit-joker](https://github.com/Rohit-joker/Cybersecurity-Enthusiast-Network-Security-SOC-SIEM-IDS-IPS-Linux-Suricata-))
+**Project Repository:** [View on GitHub]((https://github.com/Rohit-joker/Cybersecurity-Enthusiast-Network-Security-SOC-SIEM-IDS-IPS-Linux-Suricata-))
 
 ### 🚗 2. Vehicle Plate Detection & Tracking
 

@@ -53,9 +53,11 @@ I'm a Computer Science engineering graduate interested in cybersecurity, network
 <p align="center">
   <a href="https://github.com/rohit-joker?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+    <br>
   </a>
   <a href="https://github.com/rohit-joker?tab=stars">
     <img src="https://img.shields.io/badge/View-My_Stars-yellow?style=for-the-badge&logo=github" alt="View starred repositories"/>
+    <br>
   </a>
 </p>
 
@@ -166,14 +168,17 @@ I'm interested in connecting with cybersecurity professionals, engineers, recrui
 
 <a href="https://github.com/rohit-joker">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+  <br>
 </a>
 
 <a href="https://www.linkedin.com/in/rohitdhotretechnologyst/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+  <br>
 </a>
 
 <a href="mailto:rohitdhotre.sae.comp@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  <br>
 </a>
 
 <br/><br/>

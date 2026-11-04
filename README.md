@@ -12,12 +12,15 @@
 <p>
   <a href="https://github.com/rohit-joker">
     <img src="https://img.shields.io/badge/GitHub-rohit--joker-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <br>
   </a>
   <a href="https://www.linkedin.com/in/rohitdhotretechnologyst/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <br>
   </a>
   <a href="mailto:rohitdhotre.sae.comp@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <br>
   </a>
 </p>
 
